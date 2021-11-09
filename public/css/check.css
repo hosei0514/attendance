@@ -1,0 +1,137 @@
+@charset "UTF-8";
+
+.pagination {
+    height: 0;
+    margin: 0 auto;
+}
+
+.page-item {
+    padding: 0 150px;
+}
+
+@media screen and (min-width: 770px) {
+    thead {
+        height: 70px;
+    }
+
+    tr {
+        border-bottom: solid 1px #dee2e6;
+        height: 70px;
+    }
+
+    .date-line {
+        position: relative;
+        text-align: center;
+    }
+
+    .link-left{
+        padding-right: 150px;
+    }
+
+    .link-right {
+        padding-left: 150px;
+    }
+
+    .date {
+        display: inline-block;
+    }
+
+    .table-size {
+        width: 700px;
+        margin: 0 auto;
+    }
+    .table-ttl, .table-item {
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+}
+
+@media screen and (max-width: 768px) { /*ウィンドウ幅が最大768pxまでの場合に適用*/
+
+    thead {
+        height: 50px;
+    }
+
+    tr {
+        border-bottom: solid 1px #dee2e6;
+        height: 50px;
+    }
+    .date-line {
+        position: relative;
+        text-align: center;
+    }
+
+    .link-left{
+        padding-right: 150px;
+    }
+
+    .link-right {
+        padding-left: 150px;
+    }
+
+    .date {
+        display: inline-block;
+    }
+
+    .table-size {
+        width: 500px;
+        margin: 0 auto;
+    }
+    .table-ttl, .table-item {
+        font-size: 15px;
+        font-weight: bold;
+    }
+}
+
+@media screen and (max-width: 490px) { /*ウィンドウ幅が最大490pxまでの場合に適用*/
+
+    thead {
+        height: 50px;
+    }
+
+    tr {
+        border-bottom: solid 1px #dee2e6;
+        height: 50px;
+        font-size: 10px;
+    }
+
+    .msg {
+        font-size: 15px;
+    }
+
+    .date-line {
+        position: relative;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .link-left{
+        padding-right: 150px;
+    }
+
+    .link-right {
+        padding-left: 120px;
+    }
+
+    .date {
+        display: inline-block;
+        font-size: 25px;
+    }
+
+    .table-size {
+        width: 350px;
+        margin: 0 auto;
+    }
+
+    .table-ttl {
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+    .table-item {
+        font-size: 6px;
+        font-weight: bold;
+    }
+
+}
