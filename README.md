@@ -1,8 +1,8 @@
 ## 勤怠管理システム
 
-###概要
-サービス名　：　Atte(アット)
-目的　：　人事評価のための勤怠管理システム
+#概要
+サービス名：Atte(アット)　<br>
+目的：人事評価のための勤怠管理システム<br>
 
 
 案件シート　：　https://docs.google.com/spreadsheets/d/1wo4T7iUzL-hxDuttSOuIusc3GMrBepKxI7CTOsfcEfY/edit#gid=1168551788
