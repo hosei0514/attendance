@@ -3,6 +3,8 @@
 参考UI：https://1drv.ms/u/s!AqYr2pn9aZgaggkWbiPxcve6-0BK?e=eXNgvX<br>
 
 ## 概要<br>
-サービス名:Atte(アット)　<br>
-目的：人事評価のための勤怠管理システム<br>
+◆サービス名:
+Atte(アット)　<br>
+◆目的：
+人事評価のための勤怠管理システム<br>
 
