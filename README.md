@@ -15,7 +15,7 @@ Atte(アット)　<br>
 ④ログアウト<br>
 
 以下、英語版<br>
-ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br>
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br>
 
 # Time and Attendance System
 Cases sheet:https://docs.google.com/spreadsheets/d/1wo4T7iUzL-hxDuttSOuIusc3GMrBepKxI7CTOsfcEfY/edit#gid=1168551788<br>
