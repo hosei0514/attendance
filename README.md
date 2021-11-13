@@ -27,7 +27,7 @@ Atte<br>
 ◆Objective：<br>
 Attendance management system for personnel evaluation<br>
 
-## Procedure<br>
+## Procedures<br>
 ①Login or Sign up to become a member<br>
 ②Please input your unreported working and rest hours into the attendance management system<br>
 ③Confirm your attendance time in the attendance page by date<br>
