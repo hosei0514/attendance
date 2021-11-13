@@ -17,4 +17,18 @@ Atte(アット)　<br>
 以下、英語版<br>
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br>
 
+# Time and Attendance System
+Cases sheet:https://docs.google.com/spreadsheets/d/1wo4T7iUzL-hxDuttSOuIusc3GMrBepKxI7CTOsfcEfY/edit#gid=1168551788<br>
+Reference UI:https://1drv.ms/u/s!AqYr2pn9aZgaggkWbiPxcve6-0BK?e=eXNgvX<br>
 
+## Overview<br>
+◆Service Name:<br>
+Atte<br>
+◆Objective：<br>
+Attendance management system for personnel evaluation<br>
+
+## Procedure<br>
+①Login or Sign up to become a member<br>
+②Please input your unreported working and rest hours into the attendance management system<br>
+③Confirm your attendance time in the attendance page by date<br>
+④Logout<br>
